@@ -1,5 +1,12 @@
 <div align=center>
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hwara&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Hwara"
+  width="600"
+  height="300"
+/>
+</a>
+  
 # 💫 About Me
 하드웨어 개발부터 클라우드 인프라까지, 시스템 전 계층을 직접 다뤄본 개발자 겸 엔지니어
 
